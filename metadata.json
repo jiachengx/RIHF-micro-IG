@@ -1,0 +1,6 @@
+{
+  "name": "FHIR Micro-IG 自助式應用生產體系",
+  "description": "基於 FHIR Micro-IG 標準與 AI Agent 協作之醫療照護應用自助式生產工廠，實現基礎標準化、應用個別化、資料互通化與治理共同化。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
